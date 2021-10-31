@@ -1,0 +1,194 @@
+linea=0 -variable linea-Bloque 1 //Linea 0, titulo referencia, se ignora en el programa
+
+
+1mainDisplay
+2mainDisplay
+3mainDisplay
+4mainDisplay
+5mainDisplay
+6mainDisplay
+7mainDisplay
+8mainDisplay
+9mainDisplay
+10mainDisplay
+11mainDisplay
+12mainDisplay
+13mainDisplay
+14mainDisplay
+15mainDisplay//mainDisplay linea+3 a linea+18
+
+Opcion A: 
+
+Opcion B: 
+
+Opcion C: //Opciones linea+19 a linea+25
+
+
+39
+1
+2
+3
+78
+4
+5
+6
+117
+7
+8
+9
+
+linea=39 -variable linea-Bloque 1 //Linea 0, titulo referencia, se ignora en el programa
+<linea opcion A> (30),<linea opcion B (110)>,<linea opcion C (191)> //linea 2, contiene coordenadas para moverse dentro del archivo de texto dependiendo del input del usuario
+
+1mainDisplayOpcion A
+2mainDisplay
+3mainDisplay
+4mainDisplay
+5mainDisplay
+6mainDisplay
+7mainDisplay
+8mainDisplay
+9mainDisplay
+10mainDisplay
+11mainDisplay
+12mainDisplay
+13mainDisplay
+14mainDisplay
+15mainDisplay//mainDisplay linea+3-linea+18
+
+Opcion A: aa
+aa
+Opcion B: bb
+bb
+Opcion C: cc//Opciones linea+19-linea+25
+cc
+
+156
+10
+20
+30
+156
+4
+5
+6
+156
+7
+8
+9
+
+linea=78 -variable linea-Bloque 1 //Linea 0, titulo referencia, se ignora en el programa
+<linea opcion A> (30),<linea opcion B (110)>,<linea opcion C (191)> //linea 2, contiene coordenadas para moverse dentro del archivo de texto dependiendo del input del usuario
+
+1mainDisplay
+2mainDisplayOpcion B
+3mainDisplay
+4mainDisplay
+5mainDisplay
+6mainDisplay
+7mainDisplay
+8mainDisplay
+9mainDisplay
+10mainDisplay
+11mainDisplay
+12mainDisplay
+13mainDisplay
+14mainDisplay
+15mainDisplay//mainDisplay linea+3-linea+18
+
+Opcion A: aa
+aa
+Opcion B: bb
+bb
+Opcion C: cc//Opciones linea+19-linea+25
+cc
+
+156
+1
+2
+3
+156
+4
+5
+6
+156
+7
+8
+9
+
+linea=117 -variable linea-Bloque 1 //Linea 0, titulo referencia, se ignora en el programa
+<linea opcion A> (30),<linea opcion B (110)>,<linea opcion C (191)> //linea 2, contiene coordenadas para moverse dentro del archivo de texto dependiendo del input del usuario
+
+1mainDisplay
+2mainDisplay
+3mainDisplayOpcion C
+4mainDisplay
+5mainDisplay
+6mainDisplay
+7mainDisplay
+8mainDisplay
+9mainDisplay
+10mainDisplay
+11mainDisplay
+12mainDisplay
+13mainDisplay
+14mainDisplay
+15mainDisplay//mainDisplay linea+3-linea+18
+
+Opcion A: aa
+aa
+Opcion B: bb
+bb
+Opcion C: cc//Opciones linea+19-linea+25
+cc
+
+156
+1
+2
+3
+156
+4
+5
+6
+156
+7
+8
+9
+
+linea=156 -variable linea-Bloque 1 //Linea 0, titulo referencia, se ignora en el programa
+<linea opcion A> (30),<linea opcion B (110)>,<linea opcion C (191)> //linea 2, contiene coordenadas para moverse dentro del archivo de texto dependiendo del input del usuario
+
+1mainDisplay
+2mainDisplay
+3mainDisplay
+4mainDisplayFINAL
+5mainDisplay
+6mainDisplay
+7mainDisplay
+8mainDisplay
+9mainDisplay
+10mainDisplay
+11mainDisplay
+12mainDisplay
+13mainDisplay
+14mainDisplay
+15mainDisplay//mainDisplay linea+3-linea+18
+
+Opcion A: aa
+aa
+Opcion B: bb
+bb
+Opcion C: cc//Opciones linea+19-linea+25
+cc
+
+0
+1000
+2000
+3000
+0
+4000
+5000
+6000
+0
+7000
+8000
+9000
